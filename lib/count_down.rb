@@ -4,5 +4,5 @@ while count <= 10 do
   break if count == magic_exit_number
   puts count
   count = count - 1
-ends
+end
 puts = "Happy New Year!"
